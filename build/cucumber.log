@@ -1645,3 +1645,4 @@
 2021-09-01 09:47:38,274 INFO n.m.c.ReportParser [Task worker for ':'] File '/l/disk0/jferraz/Testes/TesteNovo/build/cucumber.json' contain 1 features
 2021-09-01 09:47:56,490 INFO n.m.c.ReportParser [Task worker for ':'] File '/l/disk0/jferraz/Testes/TesteNovo/build/cucumber.json' contain 1 features
 2021-09-01 10:05:16,389 INFO n.m.c.ReportParser [main] File '/l/disk0/jferraz/Testes/TesteAPIAutomatizado/cucumber-geb/build/cucumber.json' contain 1 features
+2021-09-01 10:24:00,584 INFO n.m.c.ReportParser [main] File '/l/disk0/jferraz/Testes/TesteAPIAutomatizado/cucumber-geb/build/cucumber.json' contain 1 features
